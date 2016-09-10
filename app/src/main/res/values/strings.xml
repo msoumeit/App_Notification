@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteTrap</string>
+    <string name="app_service">NoteTrapService</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_permission">Permissions</string>
+    <string name="search_hint">Search for Coupon/Offer</string>
+    <string name="aboutus_display_message">About NoteTrap</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-8037432907201707/8560466170</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-8037432907201707/3153060972</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-8037432907201707/6246128170</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-8037432907201707/7722861379</string>
+    <string name="banner_ad_unit_id5">ca-app-pub-8037432907201707/8560466170</string>
+</resources>
